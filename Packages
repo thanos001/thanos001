@@ -1,0 +1,62 @@
+Package: com.duccom01.noname
+Name: noname
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.cydiageek.coysim,com.duccom01.hookduccom,com.duccom01.locationfake
+Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
+Version: 8.4
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Section: System
+Filename: /noname.deb
+Size: 362538
+MD5sum: 0499277FE648857D4D810FD75707A2EE
+SHA1: C2A95461AB4ACCF4B46D6B92BCA0819E28508F4D
+SHA256: 180D0222F3C9FC61D12D713DDC99C1E1C558C8D79227A8D66D58E4370B2D2155
+Tag: role::hacker
+
+Package: com.duccom01.hookduccom
+Name: hookduccom
+Depends: mobilesubstrate,com.duccom01.noname
+Version: 3.0
+Architecture: iphoneos-arm
+Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Section: Tweaks
+Filename: /hookduccom.deb
+Size: 395162 
+MD5sum: 7EFC21F5A4DC58071A99C575CDE14E4E
+SHA1: 69DC9EA29A36668D950C69485E6B590C41F2BA27
+SHA256: 78DF8D9F6ECB502455ED10B4DD6F3BDAD1483E7A92C72F4BAAAC3AD72128BFAB
+Tag: role::hacker
+
+Package: com.duccom01.locationfake
+Name: locationfake
+Version: 2.0
+Architecture: iphoneos-arm
+Description: fake locaticon for iosssssssssssssssssssssssssss
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Section: Tweaks
+Filename: /locationfake.deb
+Size: 558938 
+MD5sum: FB737303D8DD546E51ABFE778F59B51F
+SHA1: 8362FF655CB1FDDC4D35136A8D01230EAF1565B3
+SHA256: 5D02016D55DF1DFA25A68C68F24B47C8AF87B774017FCDF363B37800BEC2CEBD
+Tag: role::hacker
+
+Package: com.duccom01.xcon4
+Name: xcon4
+Version: 2.0
+Architecture: iphoneos-arm
+Description: bypass jailbreak for iossssssssssssssssssssssssssss
+Maintainer: duccom01
+Author: conngunay2@gmail.com
+Section: Tweaks
+Filename: /xcon4.deb
+Size: 136628 
+MD5sum: 9A10F47C107802877369CF550C978A63
+SHA1: 6FDFAA8A2F61BB62F8AD0D355807AABAF4EF715E
+SHA256: 30EB02FE7C1CB40B6D859213457B887EBF0E2D4DBDD4E0D76E408D66D1597E99
+Tag: role::hacker
