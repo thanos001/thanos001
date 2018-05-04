@@ -7,5 +7,6 @@ Architectures: iphoneos-arm
 Components: main
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 MD5Sum:
- 869eb58aafb7d1da48b4623b0eba442b 1159 Packages.bz2
- 9eb35f9602979b94c62faa3c44fcaf4c 1012 Packages.gz
+	0025be9db4b1d818f6015fee5449d837 1012 Packages
+	869eb58aafb7d1da48b4623b0eba442b 1159 Packages.bz2
+	9eb35f9602979b94c62faa3c44fcaf4c 1012 Packages.gz
