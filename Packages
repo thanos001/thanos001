@@ -2,7 +2,7 @@ Package: com.duccom01.noname
 Name: noname
 Depends: com.duccom01.supportnoname,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
-Version: 8.4-9+debug
+Version: 8.4
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -10,16 +10,16 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 365686
-MD5sum: cb4981e7311c28e4565755434fd37244
-SHA1: 82cd8d5cef8f6767b424488443914770755ca84b
-SHA256: e66c264f9a6733e33570a7726f0848358b9f1aa1286003d7e444c6514b626684
+Size: 365300
+MD5sum: 12fce30a46c6c936cdf07816f4013b88
+SHA1: dc4a97bbed9449ddcc580f584741d495ea601404
+SHA256: 7d3ebeabaa665d2a48699e1e369906de6b5b84c752e0d72ce2054dd2661c63ad
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate,com.duccom01.supportnoname,com.duccom01.noname
-Version: 2.0-2+debug
+Version: 2.0
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -43,10 +43,10 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/locationfaker.deb
-Size: 550072
-MD5sum: be2f687f424e0bf9893577df0c9f2285
-SHA1: 69b97049eb5f6d8bb7084f1610d29de97632dbbb
-SHA256: a10ce01873b0a702a5f1f207dddf80d3fcab99763be436850b0492a7f486ffab
+Size: 538174
+MD5sum: 1384ae1d840ad3660bfcbb41ed55a33e
+SHA1: 72c6989e26d81ad922079458b9fbbd18575b632a
+SHA256: d6128df970b294dc57d4894bd7a8acbdff4fd34efd8dec2952d6998b949fc742
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
@@ -68,7 +68,7 @@ Tag: role::hacker
 
 Package: com.duccom01.supportnoname
 Name: supportnoname
-Version: 0.0.1
+Version: 1
 Architecture: iphoneos-arm
 Description: supporttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt
 Maintainer: duccom01
@@ -76,10 +76,10 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/supportnoname.deb
-Size: 6250 
-MD5sum: ce7fcb79135c6f901fc4c25e2ab61764
-SHA1: 071f8060efecc4a756023f4602157ff9b2f2c34d
-SHA256: fbc240f341fd3f6c23ab04bd5f18380178558fd311030faee17eeb9a9954d459
+Size: 6268 
+MD5sum: 7abaf0ba88dab4774c2882a11de73b79
+SHA1: 7a13e4cfd6950f9c1349ec01f457cf21999b8532
+SHA256: 0c7679c80810efb6f82ed8559ae3cea81dfde96618322f3cccd6ec423b1400d0
 Tag: role::hacker
 
 Package: com.duccom01.icontool
