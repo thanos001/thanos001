@@ -1,1 +1,1 @@
-bash -c "cd D:/IOS/kidsauto.github.io; ./update.sh;"
+bash -c "cd C:\Users\Administrator\Documents\GitHub\thanos001.github.io; ./update.sh;"
