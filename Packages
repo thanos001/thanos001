@@ -10,16 +10,16 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 362406
-MD5sum: 7accae29b0bdef4f443c8b1ae5ab55f7
-SHA1: 4d0ca4395e5ff300bef702d269e6420a873e77fd
-SHA256: fe5ef481e0eaea63d2b6f48a02054b2cf57c0a6d41b20829821cde3b0456c34f
+Size: 365556
+MD5sum: 2259c8f2f688c605b5c1543f7091b23f
+SHA1: fef2188179a2e49ac016d1bf1e5722257b40abed
+SHA256: 2bd68cf659133a465fafdf86b1f729f0393bccc4e86fd95710d10a7871c51f80
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate,com.duccom01.noname
-Version: 3.0
+Version: 2.0-1+debug
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
