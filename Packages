@@ -19,7 +19,7 @@ Tag: role::hacker
 Package: com.duccom01.hookduccom
 Name: hookduccom
 Depends: mobilesubstrate,com.duccom01.supportnoname,com.duccom01.noname
-Version: 2.0.2
+Version: 2.0.3
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
