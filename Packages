@@ -1,8 +1,8 @@
 Package: com.duccom01.noname
 Name: noname
-Depends: com.duccom01.supportnoname,com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
+Depends: com.conradkramer.open,sqlite3,kr.iolate.simulatetouch,com.autopear.installipa,zip,jp.ashikase.mousesupport,sudo,ch.ringwald.hidsupport,com.rbt.useragentchanger,unzip,ws.hbang.repower,veency,rsync,jetslammed,socat,com.duccom01.hookduccom,com.duccom01.locationfaker8910
 Conflicts: vn.gsm.locationfaker8,com.yourepo.dviet92.xcon,vn.gsm.xcon,com.n00neimp0rtant.xcon,com.yourepo.cml.locationfakerios89,com.yourepo.cml.xcon,com.yourepo.cml.hookkeyboard,com.yourepo.cml.hookkeyboardver2,com.yourepo.yan.xcon,com.yourepo.yan.hookkeyboard,com.yourepo.yan.locationfakerios89,com.yourepo.yan.noname,com.yourepo.yan.hookduccom,com.yourepo.kidsauto.xcon,com.yourepo.kidsauto.hookkeyboard,com.yourepo.kidsauto.locationfaker8910,com.yourepo.kidsauto.autolead,com.yourepo.autoleadfree.xcon,com.yourepo.autoleadfree.hookkeyboard,com.yourepo.autoleadfree.locationfaker8910,com.yourepo.autoleadfree.autolead,com.yourepo.thaihoang72.xcon,com.yourepo.thaihoang72.hookkeyboard,com.yourepo.thaihoang72.locationfaker8910,com.yourepo.thaihoang72.autolead,com.yourepo.antran73beta.xcon,com.yourepo.antran73beta.hookkeyboard,com.yourepo.antran73beta.locationfaker8910,com.yourepo.antran73beta.autolead,com.yourepo.antran722.xcon,com.yourepo.antran722.hookkeyboard,com.yourepo.antran722.locationfaker8910,com.yourepo.antran722.autolead,com.yourepo.sourcebimat72.xcon,com.yourepo.sourcebimat72.hookkeyboard,com.yourepo.sourcebimat72.locationfaker8910,com.yourepo.sourcebimat72.autolead,com.yourepo.boolinux7x.xcon,com.yourepo.boolinux7x.hookkeyboard,com.yourepo.boolinux7x.locationfaker8910,com.yourepo.boolinux7x.autolead,com.yourepo.antran73fix.xcon,com.yourepo.antran73fix.hookkeyboard,com.yourepo.antran73fix.locationfaker8910,com.yourepo.antran73fix.autolead,com.yourepo.bbv.autolead,com.yourepo.bbv.hookkeyboard
-Version: 8.4.3
+Version: 8.6.5
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -10,16 +10,14 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: System
 Filename: ./Debs/noname.deb
-Size: 364516
-MD5sum: 71468f777b8baaea82d87e59d78af16a
-SHA1: 75f0c4794e862cd327698aba0def7416f240dace
-SHA256: b76206a4ac4821689b72c91ca693a422abc3734f9b4a57ce5db6042a19dbe3cf
+Size: 154312
+MD5sum: abdd6116533f78f493fbf74bfd007f34
 Tag: role::hacker
 
 Package: com.duccom01.hookduccom
 Name: hookduccom
-Depends: mobilesubstrate,com.duccom01.supportnoname,com.duccom01.noname
-Version: 2.0.4
+Depends: mobilesubstrate,com.duccom01.noname
+Version: 8.0.0
 Architecture: iphoneos-arm
 Description: iOSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSSS
 Maintainer: duccom01
@@ -27,10 +25,8 @@ Author: conngunay2@gmail.com
 Sponsor: repo.ducauto.info
 Section: Tweaks
 Filename: ./Debs/hookduccom.deb
-Size: 390380 
-MD5sum: 3224adf1f7f2e4298d797c4b8bd23fca
-SHA1: 07c9ba7a05fe43fe2217ab86198b071286733dd3
-SHA256: 827db1b8f23212ea54547af526dee5ef08f81cfe1629beee4f8b7709ab7b022e
+Size: 165784 
+MD5sum: d64c63158d87cb6e77b67c88b869ada2
 Tag: role::hacker
 
 Package: com.duccom01.locationfaker8910
@@ -45,8 +41,6 @@ Section: Tweaks
 Filename: ./Debs/locationfaker.deb
 Size: 538174
 MD5sum: 1384ae1d840ad3660bfcbb41ed55a33e
-SHA1: 72c6989e26d81ad922079458b9fbbd18575b632a
-SHA256: d6128df970b294dc57d4894bd7a8acbdff4fd34efd8dec2952d6998b949fc742
 Depends: firmware (>= 8.0), mobilesubstrate (>= 0.9.5000)
 Conflicts: org.thebigboss.locationchangerx
 
@@ -62,8 +56,6 @@ Section: Tweaks
 Filename: ./Debs/xcon4.deb
 Size: 136628 
 MD5sum: 9a10f47c107802877369cf550c978a63
-SHA1: 6fdfaa8a2f61bb62f8ad0d355807aabaf4ef715e
-SHA256: 30eb02fe7c1cb40b6d859213457b887ebf0e2d4dbdd4e0d76e408d66d1597e99
 Tag: role::hacker
 
 Package: com.duccom01.supportnoname
@@ -78,8 +70,6 @@ Section: Tweaks
 Filename: ./Debs/supportnoname.deb
 Size: 6268 
 MD5sum: 7abaf0ba88dab4774c2882a11de73b79
-SHA1: 7a13e4cfd6950f9c1349ec01f457cf21999b8532
-SHA256: 0c7679c80810efb6f82ed8559ae3cea81dfde96618322f3cccd6ec423b1400d0
 Tag: role::hacker
 
 Package: com.duccom01.icontool
@@ -94,7 +84,5 @@ Section: Tweaks
 Filename: ./Debs/icontool.deb
 Size: 384380
 MD5sum: 556ac25a2bc2055d919cfee7a730d91c
-SHA1: 69f95417791f36fd51a2cf36bf7c324fba00aa0e
-SHA256: 7d20d11bba9699b698df1382a11c7515601bffbd78cd04593878f2a9c13718fd
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 5.0), preferenceloader (>= 2.2.2)
 Conflicts: com.rpetrich.iconrenamer,vn.gsm.icontool
